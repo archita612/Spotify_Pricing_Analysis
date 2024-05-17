@@ -2,7 +2,7 @@
 # Harmonic Insights: Uncovering Spotify's Pricing Dynamics
 
 ## Project Overview
-This project investigates Spotify's pricing strategies and their impact on market dynamics. Using conjoint analysis, we analyzed user preferences and willingness to pay for various features offered by Spotify. Additionally, SAS Enterprise Miner was utilized for data analysis and model building.
+This project investigates Spotify's pricing strategies and their impact on market dynamics. Using conjoint analysis, we analyzed user preferences and willingness to pay for various features offered by Spotify.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
